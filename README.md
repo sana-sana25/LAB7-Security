@@ -226,6 +226,8 @@ Dans l’application DIVA :
 * saisie d’un faux numéro de carte bancaire
 * clic sur “CHECK OUT”
 
+<img width="537" height="801" alt="Screenshot 2026-05-22 011556" src="https://github.com/user-attachments/assets/254cc945-393f-40db-8df2-d82bb6410a1c" />
+
 ---
 
 ## Résultat obtenu
